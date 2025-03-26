@@ -1,5 +1,5 @@
-<h1 style="text-align: center">[CVPR 2025] HyperLoRA: Parameter-Efficient Adaptive Generation for Portrait Synthesis</h1>
-<div style="text-align: center">
+# <div align="center">[CVPR 2025] HyperLoRA: Parameter-Efficient Adaptive Generation for Portrait Synthesis</div>
+<div align="center">
     <a href="https://lemonsky1995.github.io/" target="_blank">Mengtian Li</a><sup>*</sup>,
     <a href="https://openreview.net/profile?id=~Jinshu_Chen2" target="_blank">Jinshu Chen</a><sup>*</sup>,
     <a href="https://wanquanf.github.io/" target="_blank">Wanquan Feng</a><sup>*✉</sup>,
@@ -9,9 +9,11 @@
     <a href="https://scholar.google.com/citations?user=9rWWCgUAAAAJ" target="_blank">Qian He</a>
 </div>
 <br>
-<div style="text-align: center; font-size: 120%">
-    [<a href="https://lemonsky1995.github.io/hyperlora/" target="_blank">Project Page</a>]
-    [<a href="https://arxiv.org/abs/2503.16944" target="_blank">ArXiv</a>]
+<div align="center">
+    <big>
+        [<a href="https://lemonsky1995.github.io/hyperlora/" target="_blank">Project Page</a>]
+        [<a href="https://arxiv.org/abs/2503.16944" target="_blank">ArXiv</a>]
+    </big>
 </div>
 
 ## Abstract
